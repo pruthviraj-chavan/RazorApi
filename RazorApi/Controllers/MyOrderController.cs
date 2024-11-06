@@ -56,5 +56,9 @@ namespace RazorApi.Controllers
             return View("PaymentSuccess",orderDtl);
 
         }
+
+
+        
+
     }
 }
